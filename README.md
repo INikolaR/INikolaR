@@ -1,16 +1,20 @@
-### Hi there 👋
+# Info
+My name is Nikolay, currently I'm a Software Engineering student at the Faculty of Computer Science, HSE (Moscow). Besides my university program (SE sphere) I am also interested in data analysis, Machine learning/Deep learning.
 
-<!--
-**INikolaR/INikolaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Technological stacks
+## Software Engeneer stack
+- C#
+- ASP.NET
+- MySQL/PostgreSQL
+- Kafka
+- Go
+- C++
+## Data Analysis stack
+- Python
+  - sklearn
+  - pandas
+  - numpy
+## Also
+- Git
+- Docker
+- Linux
