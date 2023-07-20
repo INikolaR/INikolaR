@@ -22,4 +22,3 @@ My name is Nikolay, currently I'm a Software Engineering student at the Faculty 
 
 # 📩Contacts
 - Gmail: extrasupermailbox@gmail.com
-- Telegram: @nick_3_aka_nikola 
