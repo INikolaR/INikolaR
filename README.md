@@ -7,6 +7,7 @@ My name is Nikolay, currently I'm a Software Engineering student at the Faculty 
 - ASP.NET
 - MySQL/PostgreSQL
 - Apache Kafka
+- Java
 - Go
 - C++
 ## 📈Data Analysis stack
