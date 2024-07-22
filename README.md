@@ -16,9 +16,14 @@ My name is Nikolay, currently I'm a Software Engineering student at the Faculty 
 - GRPC
 ## 📈Data Analysis stack
 - Python
-  - sklearn
-  - pandas
-  - numpy
+  - Numpy
+  - Scipy
+  - Scikit-learn
+  - TensorFlow
+  - Keras
+  - PyTorch
+  - Pandas
+  - Matplotlib
 
 # 📩Contacts
 - Gmail: extrasupermailbox@gmail.com
