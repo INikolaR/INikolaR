@@ -3,23 +3,22 @@ My name is Nikolay, currently I'm a Software Engineering student at the Faculty 
 
 # 🚀Technological stacks
 ## 💻Software Engeneer stack
-- C#
-- ASP.NET
+- Java
+- Spring/SpringBoot
+- Go
+- Gin
+- REST
+- JWT
 - MySQL/PostgreSQL
 - Apache Kafka
-- Java
-- Go
-- C++
+- Docker
+- Git
+- GRPC
 ## 📈Data Analysis stack
 - Python
   - sklearn
   - pandas
   - numpy
-## 🔧Also
-- Git
-- Docker
-- Linux
-- gRPC
 
 # 📩Contacts
 - Gmail: extrasupermailbox@gmail.com
