@@ -19,6 +19,12 @@ My name is Nikolay, currently I'm a Software Engineering student at the Faculty 
   - PyTorch
   - Pandas
   - Matplotlib
+- C++
+  - CMake
+  - Eigen
+- Interesting projects
+  - Course project "Neural networks from scratch" - my small C++ library for neural networks https://github.com/INikolaR/courceProject2/tree/dev
+  - Some university homeworks https://github.com/INikolaR/MachineLearningHomeworks
 ## 💻Software Engeneer stack
 - Java
 - Spring/SpringBoot
