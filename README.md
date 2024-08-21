@@ -1,7 +1,24 @@
 # 💫Info
-My name is Nikolay, currently I'm a Software Engineering student at the Faculty of Computer Science, HSE (Moscow). My main direction is Software Development/Engineering/Architecture (the sphere of my university programme), and also I am interested in Computer Science, Machine learning/Deep learning.
-
+My name is Nikolay, currently I'm a Software Engineering student at the Faculty of Computer Science, HSE (Moscow). My main direction is Computer Science, Machine learning/Deep learning, and also I am interested in Software Development/Engineering/Architecture.
 # 🚀Technological stacks
+## 📈Data Scientist stack
+- Maths
+  - Linear algebra
+  - Mathematical analisys
+  - Probability theory
+  - Mathematical statistics
+- Data Science
+  - Machine learning (SVM, Gradient boosting, Random forest etc.)
+  - Deep learning (fully-connected, recurrent, convolutional neural networks)
+- Python
+  - Numpy
+  - Scipy
+  - Scikit-learn
+  - TensorFlow
+  - Keras
+  - PyTorch
+  - Pandas
+  - Matplotlib
 ## 💻Software Engeneer stack
 - Java
 - Spring/SpringBoot
@@ -14,16 +31,6 @@ My name is Nikolay, currently I'm a Software Engineering student at the Faculty 
 - Docker
 - Git
 - GRPC
-## 📈Data Analysis stack
-- Python
-  - Numpy
-  - Scipy
-  - Scikit-learn
-  - TensorFlow
-  - Keras
-  - PyTorch
-  - Pandas
-  - Matplotlib
 
 # 📩Contacts
 - Gmail: extrasupermailbox@gmail.com
